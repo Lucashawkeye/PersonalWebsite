@@ -1,0 +1,14 @@
+# PersonalWebsite
+h1 {
+  font-family: Impact, Arial, Sans-serif;
+  Font-size: 50px;
+  background-color:#A9A9A9;
+    border-style: solid;
+  border-color: black;
+}
+body { font-family: Arial, Sans-serif;
+background-color:#A9A9A9;}
+
+a {color: Black;
+   font-size: 39px;
+font-family: Impact, Arial, Sans-serif;}
